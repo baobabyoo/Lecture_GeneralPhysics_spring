@@ -1,5 +1,5 @@
 # Lecture: General Physics II
-* Time: (2024 February 18 - June 15) 234節, Wednesday
+* Time: (2025 February 16 - June 21) Wednesday, 234節 (化學系機電系中文班) / 567節 (生科系全英班)
 * Lecturer: [Hauyu Baobab Liu](https://baobabyoo.github.io/) (呂浩宇)
 * Location: NSYSU, 化學系機電系中文班 (工EN 4055-1) / 生科系全英班 (理SC 0008)
 * Language: 中文/全英
