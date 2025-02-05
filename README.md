@@ -18,7 +18,7 @@
 #### Homework (format: hand-writing on A4 papers; on due date, hand it to the TA)
 - None
 
-#### Suggestion
+#### Suggestions
 -
 - Halliday & Resnick's Principles of Physics (11th ed.), chapter 37, Problems 1, 6, 7, 13, 21, 32, 37, 38, 39, 55
 - Halliday & Resnick's Principles of Physics (11th ed.), chapter 38, Problems 1, 2, 5, 9, 11, 13, 23, 56
