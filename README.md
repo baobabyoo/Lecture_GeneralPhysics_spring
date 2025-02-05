@@ -16,8 +16,8 @@
 
 ## Syllabus:
 1. (February 19) 量子物理概念 general concept of quantum physics [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part1.pdf)
-2. (February 26) 自由電子波函數, 位能井 wave function of free electron, potential well
-3. (March 05) 自由電子波函數, 位能井 wave function of free electron, potential well
+2. (February 26) 自由電子波函數, 位能井 wave function of free electron, potential well [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part1.pdf)
+3. (March 05) 自由電子波函數, 位能井 wave function of free electron, potential well [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part1.pdf)
 4. (March 12) 氫原子模型, 元素週期表 periodic table [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part2.pdf)
 5. (March 19) 氫原子模型, 元素週期表 periodic table [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part2.pdf)
 6. (March 26) 固態物理簡介 introduction to solid state physics [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part3.pdf) In addition, I came across [this webpage](https://www.pveducation.org/pvcdrom/pn-junctions/bias-of-pn-junctions) which gives a very nice introduction about the pn junctions.
