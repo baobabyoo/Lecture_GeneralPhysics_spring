@@ -7,7 +7,8 @@
 <img src="./images/Lecture_GeneralPhysicsII_QR.png" alt="QRcode" width="200px"/>
 
 ### TA
-- 林郁珊
+- 化學系機電系中文班:林郁珊
+- 生科系全英班:張芳綱
 
 ### Office Hours (理SC2006-3)
 - Location: **理SC2006-3**
@@ -18,7 +19,7 @@
 1. (February 19) 量子物理概念 general concept of quantum physics [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part1.pdf)
 2. (February 26) 自由電子波函數, 位能井 wave function of free electron, potential well [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part1.pdf)
 3. (March 05) 自由電子波函數, 位能井 wave function of free electron, potential well [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part1.pdf)
-4. (March 12) 氫原子模型, 元素週期表 periodic table [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part2.pdf)
+4. (March 12) 校運會不上課
 5. (March 19) 氫原子模型, 元素週期表 periodic table [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part2.pdf)
 6. (March 26) 固態物理簡介 introduction to solid state physics [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part3.pdf) In addition, I came across [this webpage](https://www.pveducation.org/pvcdrom/pn-junctions/bias-of-pn-junctions) which gives a very nice introduction about the pn junctions.
 7. (April 02) 固態物理簡介 introduction to solid state physics [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part3.pdf)
@@ -44,8 +45,8 @@
 
 ## Assessment:
 - homework: 0%
-- mid-term exam: 中文班 50% / 全英班 0%
-- final exam: 中文班 50% / 全英班 100%
+- mid-term exam: 中文班 50%
+- final exam: 中文班 50% / 全英班 40%
 
 ## Suggested Textbooks:
 1. Jearl Walker, David Halliday, Robert Resnick, Principles of Physics 12th Edition.
@@ -53,6 +54,10 @@
 ## 生科全英班口試規定: TBA
 
 ## Suggested Problem Sets:
+
+### Halliday & Resnick's Principles of Physics (12th ed.)
+
+- Chapter 38, 所有奇數題
 
 ### Halliday & Resnick's Principles of Physics (11th ed.)
 
