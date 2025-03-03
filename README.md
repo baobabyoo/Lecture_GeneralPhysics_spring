@@ -58,7 +58,7 @@
 ### Halliday & Resnick's Principles of Physics (12th ed.)
 
 - Chapter 38, 所有奇數題
-- Chapter 39, 1, 11, 17, 23, 27, 39 (注意Problem 39.3題目$\Delta$ E<sub>43</sub>應改為3$\Delta$E<sub>43</sub>)
+- Chapter 39, 1, 11, 17, 23, 27, 39 (注意Problem 39.3題目$\Delta$ E<sub>43</sub>應改為3$\Delta$E<sub>43</sub>; 第47題Fig.39.3.1應該為Fig.39.3.3)
 
 ### Halliday & Resnick's Principles of Physics (11th ed.)
 
