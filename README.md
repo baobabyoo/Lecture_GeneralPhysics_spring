@@ -20,20 +20,21 @@
 2. (February 26) 自由電子波函數, 位能井 wave function of free electron, potential well [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part1.pdf)
 3. (March 05) 自由電子波函數, 位能井 wave function of free electron, potential well [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part1.pdf)
 4. (March 12) 校運會不上課
-5. (March 19) 氫原子模型, 元素週期表 periodic table [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part2.pdf)
-6. (March 26) 固態物理簡介 introduction to solid state physics [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part3.pdf) In addition, I came across [this webpage](https://www.pveducation.org/pvcdrom/pn-junctions/bias-of-pn-junctions) which gives a very nice introduction about the pn junctions.
-7. (April 02) 固態物理簡介 introduction to solid state physics [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part3.pdf)
-8. (April 09) 中文班期中考(筆試); 全英班彈性學習
-9. (April 16) 靜電靜磁學 electric field/force, magnetic field/force [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part1.pdf)
+5. (March 19) 老師病假(updated)
+6. (March 26) 氫原子模型, 元素週期表 periodic table [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part2.pdf)
+7. (April 02) 固態物理簡介 introduction to solid state physics [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part3.pdf) In addition, I came across [this webpage](https://www.pveducation.org/pvcdrom/pn-junctions/bias-of-pn-junctions) which gives a very nice introduction about the pn junctions.
+8. (April 09) 固態物理簡介 introduction to solid state physics [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/QuantumPhysics_part3.pdf)
+9. (April 16) 中文班期中考(筆試); 全英班彈性學習
 10. (April 23) 靜電靜磁學 electric field/force, magnetic field/force [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part1.pdf)
-11. (April 30) 電生磁、磁生電 law of induction [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part2.pdf)
+11. (April 30) 靜電靜磁學 electric field/force, magnetic field/force [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part1.pdf)
 12. (May 07) 電生磁、磁生電 law of induction [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part2.pdf)
-13. (May 14) 馬克士威方程、電磁波 Maxwell's equation, electromagnetic wave [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part4.pdf)
+13. (May 14) 電生磁、磁生電 law of induction [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part2.pdf)
 14. (May 21) 馬克士威方程、電磁波 Maxwell's equation, electromagnetic wave [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part4.pdf)
-15. (May 28) 基礎電路學 basic circuits [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part3.pdf)
-16. (June 04) 中文班期末考(筆試); 全英班期末口試
-17. (June 12) 彈性學習
+15. (May 28) 馬克士威方程、電磁波 Maxwell's equation, electromagnetic wave [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part4.pdf)
+16. (June 04) 基礎電路學 basic circuits [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part3.pdf)
+17. (June 12) 中文班期末考(筆試); 全英班期末口試
 18. (June 19) 彈性學習
+19. (June 26) 彈性學習
 
 ## Goal:
 1. Knowing modern physics, in particular, quantum physics.
