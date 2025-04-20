@@ -31,8 +31,8 @@
 13. (May 14) 電生磁、磁生電 law of induction [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part2.pdf)
 14. (May 21) 馬克士威方程、電磁波 Maxwell's equation, electromagnetic wave [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part4.pdf)
 15. (May 28) 馬克士威方程、電磁波 Maxwell's equation, electromagnetic wave [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part4.pdf)
-16. (June 04) 基礎電路學 basic circuits [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part3.pdf)
-17. (June 12) 中文班期末考(筆試); 全英班期末口試
+16. (June 04) 基礎電路學 basic circuits [PDF notes](https://github.com/baobabyoo/Lecture_GeneralPhysics_2023Feb/blob/master/lecture_notes/Electromagnetic_part3.pdf); 全英班期末口試
+17. (June 12) 中文班期末考(筆試)
 18. (June 19) 彈性學習
 19. (June 26) 彈性學習
 
